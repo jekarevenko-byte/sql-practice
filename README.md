@@ -1,6 +1,6 @@
 # SQL для QA: запросы и проверка данных на базе Chinook
 
-[![SQL Tests](https://github.com/jekarevenko-byte/qa-sql-practice/actions/workflows/tests.yml/badge.svg)](https://github.com/jekarevenko-byte/qa-sql-practice/actions/workflows/tests.yml)
+[![SQL Tests](https://github.com/jekarevenko-byte/sql-practice/actions/workflows/tests.yml/badge.svg)](https://github.com/jekarevenko-byte/sql-practice/actions/workflows/tests.yml)
 ![SQLite](https://img.shields.io/badge/SQLite-3.25%2B-003B57?logo=sqlite&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-8.3-green)
 
@@ -23,7 +23,7 @@
 ## Структура
 
 ```
-qa-sql-practice/
+sql-practice/
 ├── data/chinook.sqlite          ← база (лицензия: data/CHINOOK_LICENSE.md)
 ├── sql/                         ← запросы, у каждого метка "-- name: ..."
 ├── src/
