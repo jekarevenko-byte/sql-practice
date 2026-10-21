@@ -1,0 +1,7 @@
+{
+  "_comment": "Sample body of a hypothetical GET /invoices/1. Values are copied from the Chinook DB for demonstration.",
+  "invoiceId": 1,
+  "customerId": 2,
+  "billingCountry": "Germany",
+  "total": 1.98
+}
